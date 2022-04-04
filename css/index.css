@@ -1,0 +1,271 @@
+.big_wrapper{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+h2,h1,h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+p, a{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+    font-size: 300%;
+}
+p{
+    line-height: 150%;
+    font-size: 100%;
+}
+h2{
+    font-size: 250%;
+}
+h3{
+    font-size: 150%;
+}
+.section1{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+}
+.image{
+    padding-top: 3%;
+}
+.navvs a{
+    margin: 0 auto;
+    text-decoration: none;
+    color:#7A7876;
+    padding: 20px;
+    font-size: 15px;
+
+}
+
+.belove{
+    width: 60%;
+    text-align: left;
+}
+.foot-a:hover{
+    background-color: #0C646D;
+    color:rgba(255, 255, 255, 0.356);
+    border-radius: 100px;
+}
+.serv:hover{
+    background-color:#0c646e59;
+    color:black;
+    border-radius: 100px;
+}
+#dif:hover{
+    background-color:#0C646D;
+    color: rgba(0, 0, 0, 0.87);
+    display: inline-block;
+    transform: rotate(3deg);
+
+}
+#head_col,.head{
+    color: #0C646D;
+}
+#dif{
+    color: #0C646D;
+    text-decoration: none;
+    text-align: right;
+    border: 3px solid #0C646D;
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+.design{
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    width: 50%;
+}
+.move{
+    text-align: left;
+}
+.stepss h3,p{
+    text-align: left;
+}
+.work{
+    width: 48%;
+}
+
+
+#up{
+    margin-right: 28%;
+    margin-top: 0%;
+}
+.right{
+    width: 55%;
+    margin-top: 4%;
+}
+#text2{
+    margin-top: 0%;
+}
+#text{
+    margin-bottom: 0%;
+    font-size: 18px !important;
+    line-height:150%;
+    color: #7A7876;
+    text-align: left;
+}
+.serv{
+    
+    text-decoration: none;
+    border: 2px solid none ;
+    margin-right: 74%;
+    padding: 10px;
+    padding-left: 45px;
+    padding-right: 45px;
+    color: white;
+    background-color: #0C646D;
+    text-align: center;
+}
+.section2{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+.big_divv{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+
+}
+.skill{
+    display: flex;
+    justify-content: space-between;
+}
+
+.step-2 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.step-1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.same{
+    width: 30%;
+}
+
+.same p{
+    color: #7A7876; 
+    text-align: left; 
+}
+.same h3{
+    text-align: left;
+}
+.study{
+    width: 100%;
+    text-align: left;
+   
+}
+
+.stepss p{
+    color: #7A7876;
+}
+
+.side_pic,.stepss{
+    width: 50%;
+
+}
+.stepss{
+    padding-top: 8%;
+}
+span{
+    color: #0C646D;
+    font-size: 25px;
+}
+.section3{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.more{
+    display: flex;
+    justify-content: space-between;
+}
+.we{
+    text-align: left;
+}
+.pimg{
+    width: 32%;
+}
+.proj{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3%;
+}
+.all{
+    margin-top: 13%;
+
+}
+.section4{
+    text-align: center;
+    margin-top: 3%;
+    background-color: #0C646D;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    
+}
+.sec-text{
+    text-align: center;
+}
+.sec-text p{
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 1%;
+}
+.sec-text h2{
+    color: white;
+    font-size: 200%;
+}
+
+.foot-a{
+    text-decoration: none;
+    border: 3px solid white;
+    background-color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #0C646D;
+}
+footer{
+    text-align: center;
+    margin-top: 3%;
+    padding-top: 2%;
+}
+.up-foot{
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 2px solid #7A7876;
+    width: 80%;
+    margin-bottom: 3%;
+}
+.up-foot p{
+    padding-top: 0% !important;
+}
+footer p{
+    text-align: center;
+    color: #0C646D;
+    padding-top: 2%;
+}
+i{
+    padding-left: 3%;
+    color: #0C646D;
+    padding-bottom: 3%;
+}
